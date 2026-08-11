@@ -7,6 +7,6 @@ I will push my barebones pre-release proof of concept soon
 
 
 Dependencies:
-- Linux kernel >= 4.4 w/ eBFP enabled (e.g. CONFIG_BPF)
+- Linux kernel >= 4.4 w/ eBFP enabled (ideally full eBPF Support, but partial may work in some cases)
 - System-level Python >= 3.12 w/ a few py modules (TBD... likely numpy)
 - Probably some other crap, idk... still figuring all this out
